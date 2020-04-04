@@ -1,0 +1,2 @@
+# pydoku
+sudoku with python
